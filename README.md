@@ -96,7 +96,7 @@ graph TD;
 
 ---
 
-## 📌 **Conclusion**
+## 📌 Conclusion
 
 This project provided a strong foundation for AtliQ Hotels to:
 
