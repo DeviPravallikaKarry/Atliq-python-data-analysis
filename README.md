@@ -1,12 +1,12 @@
 # 🏨 AtliQ Hotels Booking Analysis with Python
 
-> 📊 A real-world data analysis project using Python to help AtliQ Hotels uncover trends, improve occupancy, and boost revenue across multiple cities and room categories.
+> 📊 A data analysis project using Python to help AtliQ Hotels uncover trends, improve occupancy, and boost revenue across multiple cities and room categories.
 
 ---
 
 ## 🚩 Project Overview
 
-AtliQ Hotels has been experiencing a drop in bookings and inconsistent revenue. With no dedicated analytics team, this project was undertaken to analyze booking patterns and generate actionable insights that support better strategic decisions.
+AtliQ Hotels has been experiencing a drop in bookings and inconsistent revenue. So, this project was undertaken to analyze booking patterns and generate actionable insights that support better strategic decisions.
 
 ---
 
