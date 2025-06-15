@@ -1,6 +1,6 @@
 # 🏨 AtliQ Hotels Booking Analysis with Python
 
-> 📊 A real-world data analysis project using Python to help AtliQ Hotels uncover trends, improve occupancy, and boost revenue across multiple cities and room categories.
+> 📊 A data analysis project using Python to help AtliQ Hotels uncover trends, improve occupancy, and boost revenue across multiple cities and room categories.
 
 ---
 
@@ -85,12 +85,22 @@ Visuals were created using Matplotlib and Seaborn to highlight trends and suppor
 
 ---
 
-## 🔁 Workflow Diagram
+## 📌 Conclusion
 
-<!-- GitHub renders Mermaid diagrams if enabled in repo settings -->
-```mermaid
-graph TD;
-    A[Booking Sources] --> B[Data Collection];
-    B --> C[Data Cleaning & Transformation];
-    C --> D[Analysis in Jupyter Notebook];
-    D --> E[Insight Generation & Reporting];
+This project provided a strong foundation for AtliQ Hotels to:
+
+- Visualize historical booking trends  
+- Make informed decisions based on real-time data  
+- Implement targeted campaigns to optimize revenue and occupancy
+
+---
+
+## 👩‍💻 Author
+
+**Karry Devi Pravallika**  
+📍 Data Analyst | Python Enthusiast  
+📧 [LinkedIn](#) | 🌐 [GitHub](#)
+
+---
+
+⭐ *Like the project? Feel free to star this repository and explore more!*
