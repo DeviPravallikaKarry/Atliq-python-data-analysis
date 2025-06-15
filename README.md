@@ -95,12 +95,4 @@ This project provided a strong foundation for AtliQ Hotels to:
 
 ---
 
-## 👩‍💻 Author
-
-**Karry Devi Pravallika**  
-📍 Data Analyst | Python Enthusiast  
-📧 [LinkedIn](#) | 🌐 [GitHub](#)
-
----
-
 ⭐ *Like the project? Feel free to star this repository and explore more!*
